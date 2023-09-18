@@ -11,6 +11,6 @@ This benchmark has the following properties:
 
 Kaggle Problem Statement : https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/
 
-## Approach 1: Simple Neural Network
+## Approach 1: Artificial Neural Network
 
 
